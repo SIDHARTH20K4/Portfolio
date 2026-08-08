@@ -10,7 +10,7 @@ const HeroSocialDock = () => {
       transition={{ duration: 0.8, delay: 1 }}
       className="absolute bottom-0 left-6 top-0 z-10 hidden flex-col items-center justify-center gap-5 sm:flex md:left-10"
     >
-      {socials.map((social, index) => (
+      {socials.map((social) => (
         <a
           key={social.name}
           href={social.link}
