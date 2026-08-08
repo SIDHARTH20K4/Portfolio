@@ -4,6 +4,7 @@ import { styles } from "../../constants/styles";
 import { config } from "../../constants/config";
 import { ParticlesBackground } from "../canvas";
 import { useTypewriter } from "../../hooks/useTypewriter";
+import HeroSocialDock from "../atoms/HeroSocialDock";
 
 const ROLES = [
   "Bitcoin Protocol Developer",
@@ -17,6 +18,7 @@ const Hero = () => {
   return (
     <section className="relative mx-auto flex h-screen w-full items-center overflow-hidden">
       <ParticlesBackground />
+      <HeroSocialDock />
 
       <div
         className={`relative z-10 mx-auto flex w-full max-w-7xl flex-row items-center gap-5 ${styles.paddingX}`}
