@@ -40,7 +40,7 @@ const contributions: TContribution[] = [
     repo: "matrix-org/matrix-rust-sdk",
     title: "Contribution to matrix-rust-sdk",
     status: "in-review",
-    link: "https://github.com/matrix-org/matrix-rust-sdk/pulls",
+    link: "https://github.com/matrix-org/matrix-rust-sdk/pull/6712",
   },
 ];
 
