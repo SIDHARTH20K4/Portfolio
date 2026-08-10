@@ -208,7 +208,7 @@ const projects: TProject[] = [
     ],
     image: vaultis,
     sourceCodeLink: "https://github.com/SIDHARTH20K4/Vaultis",
-    liveDemoLink: "https://vaultis-chi.vercel.app/",
+    liveDemoLink: "https://vaultiss.vercel.app/",
   },
   {
     name: "FairPass",
