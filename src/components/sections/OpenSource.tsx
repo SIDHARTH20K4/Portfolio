@@ -36,12 +36,6 @@ const contributions: TContribution[] = [
     status: "merged",
     link: "https://github.com/easydweb/sdk-implementations/pull/27",
   },
-  {
-    repo: "matrix-org/matrix-rust-sdk",
-    title: "Contribution to matrix-rust-sdk",
-    status: "in-review",
-    link: "https://github.com/matrix-org/matrix-rust-sdk/pull/6712",
-  },
 ];
 
 const ContributionRow: React.FC<{ index: number } & TContribution> = ({

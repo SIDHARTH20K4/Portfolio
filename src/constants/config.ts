@@ -40,9 +40,9 @@ type TConfig = {
 
 export const config: TConfig = {
   html: {
-    title: "Sidharth — Portfolio",
+    title: "Sidharth's Portfolio",
     fullName: "Sidharth",
-    email: "sidharth.120504@gmail.com", // replace with the one you want public
+    email: "sidharth.120504@gmail.com",
   },
   hero: {
     name: "Sidharth",
