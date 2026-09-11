@@ -14,25 +14,31 @@ type TContribution = {
 const contributions: TContribution[] = [
   {
     repo: "bip451/ddust",
-    title: "Dust consolidation fix — PR #46",
+    title: "Dust consolidation fix - PR #46",
     status: "merged",
     link: "https://github.com/bip451/ddust/pull/46",
   },
   {
     repo: "bip451/ddust",
-    title: "Dust consolidation improvement — PR #49",
+    title: "Dust consolidation improvement - PR #49",
     status: "merged",
     link: "https://github.com/bip451/ddust/pull/49",
   },
   {
     repo: "Ride-The-Lightning/RTL",
-    title: "Contribution to RTL — PR #1609",
+    title: "Contribution to RTL - PR #1609",
     status: "merged",
     link: "https://github.com/Ride-The-Lightning/RTL/pull/1609",
   },
   {
+    repo: "Ride-The-Lightning/RTL",
+    title: "Contribution to RTL - PR #1678",
+    status: "merged",
+    link: "https://github.com/Ride-The-Lightning/RTL/issues/1678"
+  },
+  {
     repo: "easydweb/sdk-implementations",
-    title: "SDK implementation — PR #27",
+    title: "SDK implementation - PR #27",
     status: "merged",
     link: "https://github.com/easydweb/sdk-implementations/pull/27",
   },
